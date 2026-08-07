@@ -33,7 +33,7 @@ Portfolio   : Coming Soon
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,html,css,threejs,vite&theme=dark&perline=15" />
 </p>
 
 ### Backend
