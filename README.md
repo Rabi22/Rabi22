@@ -111,7 +111,7 @@ John the Ripper
 
   <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Rabi22/Rabi22/output/github-contribution-grid-snake.svg" />
+      src="https://raw.githubusercontent.com/Rabi22/Rabi22/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
 
