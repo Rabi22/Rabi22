@@ -1,4 +1,4 @@
-# 🚀 About Me
+# About Me
 
 ```yaml
 Name        : Biswasmruti Pradhan
@@ -10,55 +10,47 @@ Location    : Balangir, Odisha 🇮🇳
 Education   : Bachelor of Technology
               Mechanical Engineering
 
-Currently   : Building scalable web applications
-
-Learning    : System Design
-              AWS
-              Kubernetes
-              AI Integrations
-
-Portfolio   : Coming Soon
 ```
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c" />
+  <img src="assets/html-5-svgrepo-com.svg" width="48"/>
+  <img src="assets/javascript-svgrepo-com.svg" width="48"/>
+  <img src="assets/python-svgrepo-com.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=15" />
 </p>
 
 ### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,html,css,threejs,vite&theme=dark&perline=15" />
+  <img src="assets/framer-svgrepo-com.svg" width="48"/>
 </p>
 
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="assets/backend/cloudinary-1.svg" width="48"/>
+  <img src="assets/backend/framer-svgrepo-com.svg" width="48"/>
+  <img src="assets/backend/jwt-3.svg" width="48"/>
+  <img src="assets/backend/rabbitmq.svg" width="48"/>
+  <img src="assets/backend/react-router-svgrepo-com.svg" width="48"/>
+  <img src="assets/backend/redis.svg" width="48"/>
+  <img src="assets/backend/rest-api-svgrepo-com.svg" width="48"/>
+  <img src="assets/backend/socket-io.svg" width="48"/>
+  <img src="assets/backend/websocket.svg" width="48"/>
 </p>
-
-Additional
-
-```text
-REST APIs
-JWT Authentication
-RabbitMQ
-Socket.io
-Redis
-Microservices Architecture
-Performance Optimization
-Security Best Practices
-```
 
 ### Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="assets/mongoose-1.svg" width="48" />
 </p>
 
 ### DevOps & Cloud
@@ -67,11 +59,23 @@ Security Best Practices
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,postman" />
 </p>
 
+### Embedded & IoT
+<p align="left">
+  <img src="assets/IoT/arduino-svgrepo-com.svg" width="48" />
+  <img src="assets/IoT/logo (1).png" width="48" />
+</p>
+
 ### Security
+<p align="left">
+  <img src="assets/security/metasploit.png" width="48" />
+  <img src="assets/security/nmap.png" width="48" />
+</p>
+
+### Additional
 
 ```text
-Nmap
-Metasploit
+Microservices Architecture
+Multer
 VAPT
 CVE Analysis
 John the Ripper
@@ -79,7 +83,7 @@ John the Ripper
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -97,7 +101,7 @@ John the Ripper
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
@@ -117,7 +121,7 @@ John the Ripper
 
 ---
 
-# 📈 Activity Graph
+# Activity Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rabi22&theme=github-dark&hide_border=true" />
@@ -125,52 +129,36 @@ John the Ripper
 
 ---
 
+# 📌 Current Focus
 
-# 🌐 Connect With Me
+- Building production-grade Full-Stack applications
+- Learning Cloud Architecture and ML
+- Integrating AI into real-world products
+- Optimizing backend performance
+- Exploring cybersecurity and DevSecOps
 
-<p align="center">
+---
 
-<a href="YOUR_LINKEDIN_URL">
+# Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/biswasmruti-pradhan/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/ra_bi2002/">
+<img src="assets/Instagram-Logo-PNG5.png" width="80"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_FACEBOOK_URL">
-<img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="mailto:rabipradhan320@gmail.com">
+<img src="assets/email-svgrepo-com.svg" width="80"/>
 </a>
 
 </p>
 
 ---
 
-# 📌 Current Focus
-
-- 🚀 Building production-grade Full-Stack applications
-- ☁️ Learning Cloud Architecture
-- 🤖 Integrating AI into real-world products
-- ⚡ Optimizing backend performance
-- 🔐 Exploring cybersecurity and DevSecOps
-
----
 
 # 💡 Quote
 
