@@ -132,17 +132,28 @@ John the Ripper
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/biswasmruti-pradhan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/biswasmruti-pradhan/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"
+      height="70"
+      width="70"
+      style="margin-right: 18px;">
+  </a>
 
-<a href="https://www.instagram.com/ra_bi2002/">
-<img src="assets/Instagram-Logo-PNG5.png" width="80"/>
-</a>
+  <a href="https://www.instagram.com/ra_bi2002/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15"
+      height="70"
+      width="70"
+      style="margin-right: 18px;">
+  </a>
 
-<a href="mailto:rabipradhan320@gmail.com">
-<img src="assets/email-svgrepo-com.svg" width="80"/>
-</a>
+  <a href="mailto:rabipradhan320@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"
+      height="70"
+      width="70">
+  </a>
 
 </p>
 
