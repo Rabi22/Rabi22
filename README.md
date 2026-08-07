@@ -1,16 +1,5 @@
-# About Me
-
-```yaml
-Name        : Biswasmruti Pradhan
-Username    : Rabi22
-Role        : Full-Stack Developer
-
-Location    : Balangir, Odisha 🇮🇳
-
-Education   : Bachelor of Technology
-              Mechanical Engineering
-
-```
+<h1 align="center">Hi ✋, I'm Biswasmruti Pradhan</h1>
+<h3 align="center">A passionate Full Stack Software Engineer from India</h3>
 
 ---
 
