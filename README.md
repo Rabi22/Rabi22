@@ -72,24 +72,6 @@ John the Ripper
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=Rabi22&show_icons=true&hide_rank=true&theme=transparent" />
-
-<img width="49%" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=Rabi22&layout=compact&hide_rank=true&theme=transparent" />
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Rabi22&theme=transparent&hide_border=true" />
-
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
